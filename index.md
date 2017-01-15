@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Life in Binary
-tagline: A series of sporadic ramblings
+tagline: A series of occasionally technical ramblings
 ---
 {% include JB/setup %}
 
