@@ -14,12 +14,13 @@ I'm obviously off to a great start.
 
 ## Recent Posts
 
-`<ul class="posts">
+--
+<ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-`
+--
 
 Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an avid reader and an Eastern culture enthusiast.
 
