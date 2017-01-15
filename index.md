@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Life in Binary
+tagline: A series of sporadic ramblings
 ---
 {% include JB/setup %}
 
@@ -23,7 +23,7 @@ In `_config.yml` remember to specify your own data:
 
 The theme should reference these variables whenever needed.
     
-## Sample Posts
+## Recent Posts
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
@@ -38,9 +38,5 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
