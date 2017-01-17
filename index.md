@@ -24,7 +24,7 @@ I'm obviously off to a great start.
 
 Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an avid reader and an Eastern culture enthusiast.
 
-### Some common slang found throughout the Blog
+## Some common slang found throughout the Blog
 *(Used humorously, not offensively)*
 
 ***
