@@ -12,7 +12,7 @@ I'm obviously off to a great start.
 
 (Warning, there will be weird sarcasm and strange jokes in this blog. `Turn back before it's too late!`)
 
-## Recent Posts
+### Recent Posts
 
 ---
 <ul class="posts">
@@ -24,7 +24,20 @@ I'm obviously off to a great start.
 
 Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an avid reader and an Eastern culture enthusiast.
 
-`Blog in Progress, I repeat, Blog in Progress!`
+#### Some common slang found throughout the Blog
+(Used humorously, not offensively)
+
+`Muggles (or No-majs)`: Non-technical people (No-maj for specifically US based non-technicals)
+`Techs (or Techies)`: Technical people 
+`Wizards (Sometimes Hippie Wizards)`: Brilliant technologists who resolved incredible problems, should garner everyone's respect (i.e. Steve Woz)
+`Zuckerbergs`: Silicon Valley, pretentious youth who live in their social bubbles (i.e. It's like Uber but for toilets!)
+`Lone stars (or Buttmonkeys)`: The techs that work in fields that don't understand their craft
+`Big bros`: A government or officials that "conveniently" pass laws that harm the Internet and related tech
+`Comcasts (or Time Warners, Bells, Rogers', etc)`: Company version of Big Bros
+
+This list will definitely grow some more.
+
+`Blog in Progress, I repeat, Blog in Progress! Will get better over the next months (or not)!`
 
 
 
