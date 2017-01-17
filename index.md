@@ -25,7 +25,8 @@ I'm obviously off to a great start.
 Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an avid reader and an Eastern culture enthusiast.
 
 ### Some common slang found throughout the Blog
-(Used humorously, not offensively)
+*(Used humorously, not offensively)*
+
 ***
 
  `Muggles (or No-majs)` -- Non-technical people (No-maj for specifically US based non-technicals) 
