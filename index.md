@@ -12,6 +12,8 @@ I'm obviously off to a great start.
 
 (Warning, there will be weird sarcasm and strange jokes in this blog. `Turn back before it's too late!`)
 
+Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an avid reader and an Eastern culture enthusiast.
+
 ## Recent Posts
 
 ---
@@ -21,8 +23,6 @@ I'm obviously off to a great start.
   {% endfor %}
 </ul>
 ---
-
-Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an avid reader and an Eastern culture enthusiast.
 
 ## Some common slang found throughout the Blog
 *(Used humorously, not offensively)*
@@ -43,9 +43,11 @@ Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an av
 
 `Comcasts (or Time Warners, Bells, Rogers', etc)` -- Corporation version of Big Bros
 
+List is still in progress.
+
 ***
 
-This list will definitely grow some more.
+
 
 `Blog in Progress, I repeat, Blog in Progress! Will get better over the next months (or not)!`
 
