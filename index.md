@@ -29,7 +29,7 @@ Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an av
 
 
  Slang | Translation 
----| ---
+--- | :---:
  Muggles (or No-majs) | Non-technical people (No-maj for specifically US based non-technicals) 
 
 Techs (or Techies) | Technical people 
