@@ -2,7 +2,7 @@
 layout: post
 title: "blockname"
 description: ""
-category: open source
+category: open_source
 tags: [telehash, blockname, DNS, encryption, mesh, networking, decentralized, Internet]
 ---
 {% include JB/setup %}
