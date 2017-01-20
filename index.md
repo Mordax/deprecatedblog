@@ -24,30 +24,6 @@ Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an av
 </ul>
 ---
 
-## Some common slang found throughout the Blog
-*(Used humorously, not offensively)*
-
-***
-
- `Muggles (or No-majs)` -- Non-technical people (No-maj for specifically US based non-technicals) 
-
-`Techs (or Techies)` -- Technical people 
-
-`Wizards (Sometimes Hippie Wizards)` -- Brilliant technologists who resolved incredible problems, should garner everyone's respect (i.e. Steve Woz)
-
-`Zuckerbergs` -- Silicon Valley, pretentious youth who live in their social bubbles (i.e. It's like Uber but for toilets!)
-
-`Lone stars (or Buttmonkeys)` -- The techs that work in fields that don't understand their craft
-
-`Big bros` -- A government or officials that "conveniently" pass laws that harm the Internet and related tech
-
-`Comcasts (or Time Warners, Bells, Rogers', etc)` -- Corporation version of Big Bros
-
-List is still in progress.
-
-***
-
-
 
 `Blog in Progress, I repeat, Blog in Progress! Will get better over the next months (or not)!`
 
