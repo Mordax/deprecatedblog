@@ -28,6 +28,7 @@ author :
 production_url : http://mordax.github.io
 
 gems: ["jekyll-sitemap"]
+      - jekyll-feed
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
