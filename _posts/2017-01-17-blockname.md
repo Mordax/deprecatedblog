@@ -28,7 +28,7 @@ tags: [telehash, blockname, DNS, encryption, mesh, networking, decentralized, In
 
  This project is so named *[blockname](https://github.com/telehash/blockname)*
 
- The project started back in 2014, and was updated a few weeks ago, however any last major commit was done in 2015. It's about three years old. It's written 100% in ```javascript```.
+ It started back in 2014, and was updated a few weeks ago, however any last major commit was done in 2015. It's about three years old. It's written 100% in ```javascript```.
 
  It's currently being tested on a couple of websites, and is working on [Testnet](http://testnet.coinsecrets.org/?to=322562.000001).
 
