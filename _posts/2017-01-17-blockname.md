@@ -32,6 +32,6 @@ tags: [telehash, blockname, DNS, encryption, mesh, networking, decentralized, In
 
  It's currently being tested on a couple of websites, and is working on [Testnet](http://testnet.coinsecrets.org/?to=322562.000001).
 
- So far, there's been three issues, and none have been closed so far. If there are other communication mediums the (two) contributors are using, I haven't seen them just yet. There's around eleven forks but nothing interesting has yet been added by these people. Others are probably testing out the resolving chain.
+ So far, there's been three issues, and none have been closed. If there are other communication mediums the (two) contributors are using, I haven't seen them just yet. There's around eleven forks but nothing interesting has yet been added by these people. Others are probably testing out the resolving chain.
 
- `Deinitely a project I will be tinkering with over reading week.`
+ `Deinitely a project to check out.`
