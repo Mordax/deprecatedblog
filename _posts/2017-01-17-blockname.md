@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "blockname"
-description: ""
+description: "An Alternative to DNS"
 category: open_source
 tags: [telehash, blockname, DNS, encryption, mesh, networking, decentralized, Internet]
 ---
