@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adventures in Pull Requesting"
-description: ""
+description: "And how I got over it"
 category: test
 tags: [pullrequest, opensource, gulp, github]
 ---
