@@ -7,8 +7,6 @@ tags: [pullrequest, opensource, gulp, github]
 ---
 {% include JB/setup %}
 
-`Dislaimer: Overreaction and drama ahead, proceed with caution`
-***
 
 Do you know what a quiet breakdown is?
 
