@@ -2,8 +2,8 @@
 layout: post
 title: "Adventures in Pull Requesting"
 description: ""
-category: 
-tags: [github, pullrequest, opensource, gulp]
+category: test
+tags: [pullrequest, opensource, gulp, github]
 ---
 {% include JB/setup %}
 
