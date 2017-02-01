@@ -1,6 +1,7 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
+
+permalink: /:categories/:year/:month/:day/:title.html
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -27,7 +28,7 @@ author :
 #
 production_url : http://mordax.github.io
 
-gems: ["jekyll-sitemap"]
+gems: 
       - jekyll-feed
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
@@ -135,5 +136,6 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-  exclude: [node_modules]
+exclude:
+    - node_modules
   
