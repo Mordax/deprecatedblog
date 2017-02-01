@@ -2,7 +2,7 @@
 layout: null
 title : Atom Feed
 ---
-<?xml version="1.0" encoding="{{ site.charset }}"?>
+<?xml version="1.0" encoding="{{ site.charset }}" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>{{ site.title }}</title>
     <link href="{{ site.production_url }}/atom.xml" rel="self" />
