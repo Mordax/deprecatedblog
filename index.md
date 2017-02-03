@@ -24,7 +24,6 @@ Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an av
 </ul>
 ---
 
-Jekyll is being weird, test, test
 
 `Blog in Progress, I repeat, Blog in Progress! Will get better over the next months (or not)!`
 
