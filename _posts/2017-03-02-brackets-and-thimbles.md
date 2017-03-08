@@ -2,7 +2,7 @@
 layout: post
 title: "Brackets and Thimbles"
 description: ""
-category:open_source
+category: open_source
 tags: [brackets, Mozilla, Thimble, Vagrant, bug, issue]
 ---
 {% include JB/setup %}
