@@ -2,7 +2,7 @@
 layout: post
 title: "Spoon Knife"
 description: ""
-category:
+category: open_source
 tags: [rebase, branches, merging, gh-pages, practise]
 ---
 {% include JB/setup %}
