@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vacuum Tube
-tagline: A series of technical ramblings that occasionally overheat
+title: I/O
+tagline: A series of technical ramblings
 ---
 {% include JB/setup %}
 
