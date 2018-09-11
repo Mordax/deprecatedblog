@@ -1,18 +1,17 @@
 ---
 layout: page
-title: The Binary Life
-tagline: A series of occasionally technical ramblings
+title: Vacuum Tube
+tagline: A series of technical ramblings that occasionally overheat
 ---
 {% include JB/setup %}
 
-Welcome to my blog. It's my first attempt at being one of those cool tech wizards who sometimes impart invaluable 
-knowledge unto others. 
+I'm so bad at knowing what sort of tone I want to set with my online persona. Everytime I see my old introductions, they're
+always so embarrassing. 
 
-I'm obviously off to a great start. 
+Anyways, welcome to my blog. I hope you'll find useful information and fixes for broken technology. 
 
-(Warning, there will be weird sarcasm and strange jokes in this blog. `Turn back before it's too late!`)
-
-Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an avid reader and an Eastern culture enthusiast.
+I have pretty strong copyleftist sentiments, a willingness to accept our robot overlords, am a giant history nerd, hoard too many
+books and love to learn. 
 
 ## Recent Posts
 
@@ -23,9 +22,5 @@ Alongside Technical related postings, I am a Copyleftist, a Transhumanist, an av
   {% endfor %}
 </ul>
 ---
-
-
-`Blog in Progress, I repeat, Blog in Progress! Will get better over the next months (or not)!`
-
 
 
