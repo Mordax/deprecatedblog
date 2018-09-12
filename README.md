@@ -1,5 +1,3 @@
-An Open Source blog.
+This blog is officially deprecated.
 
-Very much a work in progress.
-
-[Click here](https://mordax.io/blog/)
+[Link:](https://mordax.io/deprecatedblog/)
