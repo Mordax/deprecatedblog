@@ -1,3 +1,3 @@
 This blog is officially deprecated.
 
-[Link:](https://mordax.io/deprecatedblog/)
+[Link](https://mordax.io/deprecatedblog/)
